@@ -32,6 +32,7 @@ infrastructure, targeting Ceph Reef (18.2.x) and Squid (19.2.x).
 
 | Operator Need | Skill | Entry Point |
 |---|---|---|
+| Learn / Train | training | `skills/training/` |
 | Understand Ceph architecture | concepts | `skills/foundation/concepts` |
 | Plan hardware and sizing | hardware-planning | `skills/foundation/hardware-planning` |
 | Prepare hosts for Ceph | host-preparation | `skills/foundation/host-preparation` |
